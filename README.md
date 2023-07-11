@@ -12,10 +12,10 @@ This project  is to create an application called Note Taker that can be used to 
 - [Contact](#Contact)
 ## Technologies
 
-JavaScript
-Node.js
-NPM
-Express
+- JavaScript
+- Node.js
+- NPM
+- Express
 
 
 ## Usage
