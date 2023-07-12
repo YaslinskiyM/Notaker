@@ -3,6 +3,7 @@
 ## Description
 This project  is to create an application called Note Taker that can be used to write and save notes. This application uses an Express.js back end and will save and retrieve note data from a JSON file.
 
+
 ## Table of Contents
 
 - [Usage](#usage)
@@ -15,8 +16,10 @@ This project  is to create an application called Note Taker that can be used to 
 To create a new note, utilize the provided text fields to enter a title for your note and input the desired content. Once you have filled out the note, click on the Save icon. This action will save your note to the Note Taker server.
 
 To view a previously written note, simply click on the desired note from the list in the left-hand column. The note's title and text will then be displayed in the right-hand column, allowing you to review its content.
-![Alt text](image-1.png)
+
+![Alt text](image-2.png)
 ![Alt text](image.png)
+https://notetaker-projects-842f9e32628b.herokuapp.com/
 
 USER STORY: AS A small business owner
 I WANT to be able to write and save notes
@@ -35,7 +38,8 @@ WHEN I click on an existing note in the list in the left-hand column
 THEN that note appears in the right-hand column.
 WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column.
-
+## Links
+https://notetaker-projects-842f9e32628b.herokuapp.com/
 ## Technologies
 
 - JavaScript
